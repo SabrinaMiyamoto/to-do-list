@@ -13,8 +13,3 @@ Um lista dinâmica para afazeres do dia
 * CSS
 * JavaScript
 
-## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-```
-NPM i package.json
-```
